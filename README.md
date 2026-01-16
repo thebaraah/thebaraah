@@ -8,14 +8,14 @@ What motivates me the most is turning ideas into real projects and continuously 
 
 
 INTERESTS :
-Swimming 
-Reading 
-Horse riding 
+- Swimming 
+- Reading 
+- Horse riding 
 
 TECHNOLOGIES I WANT TO LEARN :
-Cloud computing system
-Artificial intelligence 
-Python
+- Cloud computing system
+- Artificial intelligence 
+- Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebaraah)](https://github.com/anuraghazra/github-readme-stats)
 
