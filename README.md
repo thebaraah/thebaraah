@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-https://readme-typing-svg.demolab.com/demo/?color=D79E92&background=D17B7B07&multiline=true&lines=Welcome+to+my+profile+!+;I+am+Baraah+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E0ADA2&width=435&lines=Welcome+to+my+profile+!+;I+am+BARAAH)](https://git.io/typing-svg)
 
 
 I am a curious and motivated learner who enjoys exploring new technologies.  
