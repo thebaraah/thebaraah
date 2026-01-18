@@ -17,6 +17,5 @@ TECHNOLOGIES I WANT TO LEARN :
 - Artificial intelligence 
 - Python
 
-[![Top Langs](https://github-readme-stats.vercel.app/thebaraah)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebaraah)](https://github.com/thebaraah/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=thebaraah)](https://git.io/streak-stats)
