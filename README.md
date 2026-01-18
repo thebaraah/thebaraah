@@ -20,3 +20,5 @@ TECHNOLOGIES I WANT TO LEARN :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebaraah)](https://github.com/thebaraah/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=thebaraah&theme=dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thebaraah&theme=dark)](https://git.io/streak-stats)
