@@ -36,9 +36,6 @@ INTERESTS :
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 </a>
-<a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" alt="dbt" width="40" height="40"/>
-</a>
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
   <img src="https://airflow.apache.org/images/feature-image.png" alt="airflow" width="40" height="40"/>
 </a>
@@ -51,12 +48,7 @@ INTERESTS :
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
 </a>
-<a href="https://azure.microsoft.com/products/storage/blobs" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/microsoftazure" alt="azure-storage" width="40" height="40"/>
-</a>
-<a href="https://learn.microsoft.com/azure/container-apps/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/azurecontainerapps" alt="azure-container-apps" width="40" height="40"/>
-</a>
+
 
 <!-- Development & DevOps -->
 
