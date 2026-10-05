@@ -29,9 +29,6 @@ I enjoy understanding how data moves through a system, turning raw data into som
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
-</a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 </a>
@@ -42,9 +39,7 @@ I enjoy understanding how data moves through a system, turning raw data into som
 
 <p align="left">
 
-<a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/dbt" alt="dbt" width="40" height="40"/>
-</a>
+
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/apacheairflow" alt="airflow" width="40" height="40"/>
 </a>
