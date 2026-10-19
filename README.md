@@ -84,13 +84,7 @@ I enjoy understanding how data moves through a system, turning raw data into som
 
 </p>
 
-### 💡 What I Enjoy
 
-* Understanding how data moves from source to destination
-* Working with data and finding ways to make it reliable
-* Learning new tools and exploring different approaches
-* Working with a team and learning from others
-* Turning ideas into real projects
 
 ### 🎯 My Goal
 
