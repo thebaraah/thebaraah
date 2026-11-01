@@ -95,7 +95,3 @@ To grow as a **Data Engineer**, strengthen my knowledge of **Cloud Data Engineer
 * Swimming
 * Reading
 * Horse riding
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=thebaraah\&theme=dark)](https://git.io/streak-stats)
